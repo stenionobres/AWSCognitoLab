@@ -5,7 +5,7 @@ using Amazon.Lambda.Core;
 
 namespace AWSCognitoLab.Authentication
 {
-    public class Function
+    public class AuthenticationFunction
     {
         public string FunctionHandler(string input, ILambdaContext context)
         {
