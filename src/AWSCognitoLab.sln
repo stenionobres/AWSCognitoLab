@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSCognitoLab.Authentication", "AWSCognitoLab.Authentication\AWSCognitoLab.Authentication.csproj", "{CCA1C344-5C8C-4441-B8C6-2DD2955F0E97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSCognitoLab.UnitTests", "AWSCognitoLab.UnitTests\AWSCognitoLab.UnitTests.csproj", "{B74A00C6-3F25-49CB-987C-C8E32CDC14A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSCognitoLab.UnitTests", "AWSCognitoLab.UnitTests\AWSCognitoLab.UnitTests.csproj", "{B74A00C6-3F25-49CB-987C-C8E32CDC14A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSCognitoLab.SignUp", "AWSCognitoLab.SignUp\AWSCognitoLab.SignUp.csproj", "{99ECDD5B-62C0-4E65-8332-8FACF28B8BC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B74A00C6-3F25-49CB-987C-C8E32CDC14A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B74A00C6-3F25-49CB-987C-C8E32CDC14A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B74A00C6-3F25-49CB-987C-C8E32CDC14A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99ECDD5B-62C0-4E65-8332-8FACF28B8BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99ECDD5B-62C0-4E65-8332-8FACF28B8BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99ECDD5B-62C0-4E65-8332-8FACF28B8BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99ECDD5B-62C0-4E65-8332-8FACF28B8BC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
